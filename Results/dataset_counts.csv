@@ -1,0 +1,4 @@
+split,label,count
+test,anomaly,100
+test,normal,100
+train,normal,904
